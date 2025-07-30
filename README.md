@@ -85,11 +85,6 @@ I'm a cybersecurity-focused Computer Science and Applied Mathematics student at 
 **GPA:** 4.0/4.0  
 **Key Coursework:** Computer Security, Software Engineering, Data Structures & Algorithms
 
-**Relevant Projects:**
-- Network Security Protocol Analysis
-- Cryptographic Algorithm Implementation
-- Database Security Design
-
 ---
 
 ## Looking Forward
