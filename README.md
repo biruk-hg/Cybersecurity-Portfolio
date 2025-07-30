@@ -9,7 +9,7 @@
 
 I'm a cybersecurity-focused Computer Science and Applied Mathematics student at Trinity College with hands-on experience in Zero Trust architecture, phishing research, and security frameworks. Currently maintaining a 4.0 GPA while leading cybersecurity research and gaining practical experience through internships.
 
-** What drives me:** Building secure systems and educating users about cybersecurity threats through innovative, research-backed solutions.
+**What drives me:** Building secure systems and educating users about cybersecurity threats through innovative, research-backed solutions.
 
 ---
 
