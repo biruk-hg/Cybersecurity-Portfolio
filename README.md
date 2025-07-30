@@ -75,7 +75,6 @@ I'm a cybersecurity-focused Computer Science and Applied Mathematics student at 
 
 #### [Risk Assessment & Reporting](./google-cert-projects/risk-assessment/)
 - **Vulnerability Assessment Report:** Security posture evaluation
-- **Security Documentation:** Technical writing for stakeholder communication
 
 ---
 
