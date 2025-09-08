@@ -1,7 +1,7 @@
 # Biruktayit Habtegiorgis - Cybersecurity Portfolio
 
 **Computer Science & Applied Mathematics Student | Trinity College**  
-[bhabetgi@trincoll.edu] | [www.linkedin.com/in/biruktayit-habtegiorgis] | Rising Junior (Fall 2025)
+[bhabetgi@trincoll.edu] | [www.linkedin.com/in/biruktayit-habtegiorgis] | Junior (Fall 2025)
 
 ---
 
