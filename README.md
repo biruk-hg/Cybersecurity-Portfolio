@@ -1,7 +1,7 @@
 # Biruktayit Habtegiorgis - Cybersecurity Portfolio
 
 **Computer Science & Applied Mathematics Student | Trinity College**  
-[bhabetgi@trincoll.edu] | [www.linkedin.com/in/biruktayit-habtegiorgis] | Junior (Fall 2025)
+[biruktayit.hg@gmail.com] | [www.linkedin.com/in/biruktayit-habtegiorgis] | Senior (Fall 2026)
 
 ---
 
@@ -111,4 +111,4 @@ I'm actively seeking cybersecurity internship opportunities for Summer 2026. Fee
 
 ---
 
-*Last Updated: July 2025*
+*Last Updated: Nov 2026*
