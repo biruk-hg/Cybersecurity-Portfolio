@@ -105,7 +105,7 @@ I'm a cybersecurity-focused Computer Science and Applied Mathematics student at 
 
 I'm actively seeking cybersecurity internship opportunities for Summer 2026. Feel free to explore my projects and reach out to discuss how my technical skills, research experience, and passion for cybersecurity can contribute to your team.
 
-**Contact:** [bhabtegi@trincoll.edu]  
+**Contact:** [biruktayit.hg@gmail.com]  
 **LinkedIn:** [www.linkedin.com/in/biruktayit-habtegiorgis]  
 **Location:** Hartford, CT (Open to relocation)
 
